@@ -393,13 +393,6 @@ www.parikesit  IN      CNAME   parikesit.abimanyu.d16.com.
 
 ' > /etc/bind/jarkom/abimanyu.d16.com
 ```
-### Bukti
-
-1. Lakukan `ping parikesit.abimanyu.d16.com` dan `ping ww.parikesit.abimanyu.d16.com` pada client:
-
-![soal4-1](https://github.com/dimss113/Jarkom-Modul-2-d16-2023/assets/89715780/8cc0ce9a-adc4-4520-93ae-ec0e32203d98)
-
-![soal4-2](https://github.com/dimss113/Jarkom-Modul-2-d16-2023/assets/89715780/c681adb0-6940-4a0a-ae07-c0abc466f401)
 
 # Soal 5
 
