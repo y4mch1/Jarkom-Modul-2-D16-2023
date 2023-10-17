@@ -334,12 +334,6 @@ www     IN      CNAME   abimanyu.d16.com.
 
 service bind9 restart
 ```
-### Bukti
-
-
-![soal3-1](![Alt text](image.png))
-
-
 
 # Soal 4
 
@@ -811,8 +805,6 @@ www                     IN      CNAME   baratayuda.abimanyu.d16.com.
 service bind9 restart
 ```
 ### Bukti
-
-
 
 ![soal7-1](https://media.discordapp.net/attachments/1123262899859763303/1163812486286426232/image.png?ex=6540efd7&is=652e7ad7&hm=7b9d7c6009ba5538347ac7ab05f889f3653b7cea513fc768c2e7ecdffa4e3c51&=&width=1197&height=258)
 
